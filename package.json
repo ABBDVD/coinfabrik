@@ -1,0 +1,35 @@
+{
+  "name": "cdx",
+  "version": "1.0.0",
+  "description": "This is the Commodity Ad Network's CDX token smart contract.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bignumber.js": "^4.0.2",
+    "ipfs-api": "^14.3.5",
+    "moment": "^2.18.1",
+    "nodemailer": "^4.1.3",
+    "sqlite3": "^3.1.13",
+    "web3": "^1.0.0-beta.24"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "standard": "^10.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commodityadnetwork/CDX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/commodityadnetwork/CDX/issues"
+  },
+  "homepage": "https://github.com/commodityadnetwork/CDX#readme"
+}
